@@ -1,12 +1,16 @@
 ## Languages
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasInstra&layout=compact&hide_border=true&theme=dark" />
+</div>
 
 ## Projects
 
-- [CardioView](https://github.com/LucasInstra/CardioView) — ECG monitor and viewer built with WPF (.NET)
-- [opencode-status-popup](https://github.com/LucasInstra/opencode-status-popup) — always-on-top status pill for OpenCode
-- [wipeready](https://github.com/LucasInstra/wipeready) — Windows setup inventory app (checklist, backups, winget kit)
+<div align="center">
+
+<a href="https://github.com/LucasInstra/usage-bar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasInstra&repo=usage-bar&hide_border=true&theme=dark" width="48%" /></a>
+<a href="https://github.com/LucasInstra/opencode-status-popup"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasInstra&repo=opencode-status-popup&hide_border=true&theme=dark" width="48%" /></a>
+
+<a href="https://github.com/LucasInstra/opencode-mini-session"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasInstra&repo=opencode-mini-session&hide_border=true&theme=dark" width="48%" /></a>
+
+</div>
