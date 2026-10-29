@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/LucasInstra/bubo"><img src="assets/bubo-popup.png" width="320" alt="bubo popup answering" /></a>
+  <a href="https://github.com/LucasInstra/bubo"><img src="assets/bubo-greeting.png" width="320" alt="bubo popup" /></a>
 </p>
 
 <p align="center">
