@@ -1,0 +1,8 @@
+<svg width="495" height="120" viewBox="0 0 495 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="opencode-mini-session">
+  <rect x="0.5" y="0.5" width="494" height="119" rx="8" fill="#151b23" stroke="#30363d"/>
+  <text x="25" y="33" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#58a6ff">opencode-mini-session</text>
+  <text x="25" y="57" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="11.5" fill="#8b949e">Side questions in interactive mini sessions, with main-session</text>
+  <text x="25" y="74" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="11.5" fill="#8b949e">context or fresh, plus session handoff.</text>
+  <circle cx="30" cy="101" r="4" fill="#3178c6"/>
+  <text x="42" y="105" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#c9d1d9">TypeScript</text>
+</svg>

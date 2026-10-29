@@ -1,0 +1,31 @@
+<svg width="495" height="190" viewBox="0 0 495 190" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Most Used Languages">
+  <rect x="0.5" y="0.5" width="494" height="189" rx="8" fill="#151b23" stroke="#30363d"/>
+  <text x="25" y="34" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="600" fill="#ffffff">Most Used Languages</text>
+  <text x="470" y="34" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="9" fill="#8b949e">updated 2026-10-29</text>
+  <g clip-path="url(#bar)">
+    <rect x="25" y="50" width="281.95" height="8" fill="#3178c6"/>
+    <rect x="306.95" y="50" width="79.12" height="8" fill="#dea584"/>
+    <rect x="386.07" y="50" width="27.86" height="8" fill="#563d7c"/>
+    <rect x="413.93" y="50" width="21" height="8" fill="#5391fe"/>
+    <rect x="434.93" y="50" width="20.11" height="8" fill="#e34c26"/>
+    <rect x="455.04" y="50" width="13.04" height="8" fill="#f1e05a"/>
+    <rect x="468.08000000000004" y="50" width="1.91" height="8" fill="#8b949e"/>
+  </g>
+  <defs>
+    <clipPath id="bar"><rect x="25" y="50" width="445" height="8" rx="4"/></clipPath>
+  </defs>
+  <circle cx="30" cy="84" r="4" fill="#3178c6"/>
+  <text x="42" y="88" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="12" fill="#c9d1d9">TypeScript <tspan fill="#8b949e">63.4%</tspan></text>
+  <circle cx="265" cy="84" r="4" fill="#dea584"/>
+  <text x="277" y="88" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="12" fill="#c9d1d9">Rust <tspan fill="#8b949e">17.8%</tspan></text>
+  <circle cx="30" cy="110" r="4" fill="#563d7c"/>
+  <text x="42" y="114" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="12" fill="#c9d1d9">CSS <tspan fill="#8b949e">6.3%</tspan></text>
+  <circle cx="265" cy="110" r="4" fill="#5391fe"/>
+  <text x="277" y="114" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="12" fill="#c9d1d9">PowerShell <tspan fill="#8b949e">4.7%</tspan></text>
+  <circle cx="30" cy="136" r="4" fill="#e34c26"/>
+  <text x="42" y="140" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="12" fill="#c9d1d9">HTML <tspan fill="#8b949e">4.5%</tspan></text>
+  <circle cx="265" cy="136" r="4" fill="#f1e05a"/>
+  <text x="277" y="140" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="12" fill="#c9d1d9">JavaScript <tspan fill="#8b949e">2.9%</tspan></text>
+  <circle cx="30" cy="162" r="4" fill="#8b949e"/>
+  <text x="42" y="166" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="12" fill="#c9d1d9">Other <tspan fill="#8b949e">0.4%</tspan></text>
+</svg>
