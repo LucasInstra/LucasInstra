@@ -1,18 +1,12 @@
 ## bubo
 
 <p align="center">
-  <a href="https://github.com/LucasInstra/bubo">
-    <img src="https://raw.githubusercontent.com/LucasInstra/bubo/main/docs/assets/bubo.png" width="100" alt="bubo mascot" />
-  </a>
-</p>
-
-<p align="center">
   <strong>A tiny English tutor that lives in a floating window on your desktop.</strong><br />
   Chat in English, get live corrections, and turn your mistakes into spaced-repetition practice.
 </p>
 
 <p align="center">
-  <a href="https://lucasinstra.github.io/bubo/"><img src="https://raw.githubusercontent.com/LucasInstra/bubo/main/docs/screenshots/compact.png" width="60%" alt="bubo compact chat" /></a>
+  <a href="https://github.com/LucasInstra/bubo"><img src="assets/bubo-popup.png" width="320" alt="bubo popup answering" /></a>
 </p>
 
 <p align="center">
