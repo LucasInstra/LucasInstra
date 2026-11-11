@@ -22,29 +22,6 @@
   <a href="https://github.com/LucasInstra/bubo">Source</a>
 </p>
 
-## trove
-
-<p align="center">
-  <strong>A personal finance app that runs on your computer, with no account and no server.</strong><br />
-  Import the OFX file your bank already gives you, and the data stays in a SQLite file on your machine.
-</p>
-
-<p align="center">
-  <a href="https://github.com/LucasInstra/trove"><img src="assets/trove-keeper.png" width="320" alt="trove keeper" /></a>
-</p>
-
-<p align="center">
-  <img alt="Tauri" src="https://img.shields.io/badge/Tauri-2-24C8DB?logo=tauri&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white">
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-stable-000000?logo=rust&logoColor=white">
-  <img alt="Windows" src="https://img.shields.io/badge/platform-Windows-0078D6?logo=windows&logoColor=white">
-</p>
-
-<p align="center">
-  <a href="https://github.com/LucasInstra/trove/releases">Download</a> ·
-  <a href="https://github.com/LucasInstra/trove">Source</a>
-</p>
-
 ## Languages
 
 <div align="center">
